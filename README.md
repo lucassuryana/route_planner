@@ -13,13 +13,13 @@
 ### Structures
 This project consists of three files:
 * `helpers.py`: this code helps to load map data, defining map objects, and display maps.
-* `route_planner.ipynb`: implementation of A* algorithm
+* `route_planner.ipynb`: implementation of A* algorithm.
 
 ### Run the code
 To run the code:
 1. Clone this respository: https://github.com/lucassuryana/route_planner.git 
 2. Open route_planner.ipynb
-3. Run all the chunks
+3. Run all chunks
 
 ### Dependencies
 This project needs following dependencies:
