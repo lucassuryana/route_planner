@@ -3,6 +3,8 @@
 - The code was developed based on the assignment from the Nanodegree program. 
 - The assignment was to code a route-planning algorithm, A*, like the one used in Google Maps.
 
+[-----------]
+
 ### Project Overview
 ### Goals
 * Implement A* algorithm to find shortest distance given a start and goal node.
