@@ -12,8 +12,8 @@
 
 ### Structures
 This project consists of three files:
-* helpers.py: this code helps to load map data, defining map objects, and display maps.
-* route_planner.ipynb: implementation of A* algorithm
+* `helpers.py`: this code helps to load map data, defining map objects, and display maps.
+* `route_planner.ipynb`: implementation of A* algorithm
 
 ### Run the code
 To run the code:
@@ -22,7 +22,7 @@ To run the code:
 3. Run all the chunks
 
 ### Results
-1. If we choose map of 40 nodes with start node as 5 and end end node as 34. [View Interactive Plot](/html/5_to_34.html)
+1. If we choose map of 40 nodes with start node as 5 and end end node as 34. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download [html file](/html/5_to_34.html) and open in your own browser.
 ![GitHub Logo](/figures/5_to_34.png)
-2. If we choose map of 40 nodes with start node as 10 and end end node as 30. [View Interactive Plot](/html/10_to_30.html)
+2. If we choose map of 40 nodes with start node as 10 and end end node as 30. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download [html file](/html/10_to_30.html) and open in your own browser.
 ![GitHub Logo](/figures/10_to_30.png) 
