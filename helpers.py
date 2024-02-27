@@ -162,4 +162,4 @@ def show_map(M, start=None, goal=None, path=None):
                     xaxis=XAxis(showgrid=False, zeroline=False, showticklabels=False),
                     yaxis=YAxis(showgrid=False, zeroline=False, showticklabels=False)))
 	
-	iplot(fig)
+	plot(fig, filename='plotly_plot.html')
