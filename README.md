@@ -21,8 +21,14 @@ To run the code:
 2. Open route_planner.ipynb
 3. Run all the chunks
 
+### Dependencies
+This project needs following dependencies:
+* networkx >= 2.7.1
+* plotly >= 5.6.0
+* python >= 3.9.12
+
 ### Results
-1. If we choose map of 40 nodes with start node as 5 and end end node as 34. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download [html file](/html/5_to_34.html) and open in your own browser.
+1. If we choose map of 40 nodes with start node as 5 and end end node as 34. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download this [html file](/html/5_to_34.html) and open in your own browser.
 ![GitHub Logo](/figures/5_to_34.png)
-2. If we choose map of 40 nodes with start node as 10 and end end node as 30. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download [html file](/html/10_to_30.html) and open in your own browser.
+2. If we choose map of 40 nodes with start node as 10 and end end node as 30. The black and yellow nodes respectively denote the start and goal node. To see the interactive plot, download this [html file](/html/10_to_30.html) and open in your own browser.
 ![GitHub Logo](/figures/10_to_30.png) 
